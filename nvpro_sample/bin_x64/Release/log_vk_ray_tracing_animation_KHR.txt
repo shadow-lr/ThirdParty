@@ -1,0 +1,32 @@
+_______________
+Vulkan Version:
+ - available:  1.2.170
+ - requesting: 1.2.0
+______________________
+Used Instance Layers :
+VK_LAYER_LUNARG_monitor
+
+Used Instance Extensions :
+VK_KHR_surface
+VK_KHR_win32_surface
+VK_EXT_debug_utils
+____________________
+Compatible Devices :
+0: NVIDIA GeForce RTX 2060
+Could NOT locate mandatory extension 'VK_KHR_acceleration_structure'
+Skipping physical device Intel(R) UHD Graphics 630
+Physical devices found : 1
+________________________
+Used Device Extensions :
+VK_KHR_swapchain
+VK_KHR_acceleration_structure
+VK_KHR_ray_tracing_pipeline
+VK_KHR_deferred_host_operations
+
+INFO: Loader Message 
+ --> Inserted device layer VK_LAYER_LUNARG_monitor (C:\VulkanSDK\1.2.182.0\Bin\.\VkLayer_monitor.dll)
+INFO: Loader Message 
+ --> Inserted device layer VK_LAYER_NV_optimus (C:\windows\System32\DriverStore\FileRepository\nvhdc.inf_amd64_61e8dca02d1b1a0c\.\nvoglv64.dll)
+Loading File:  D:/Fgly-Github/nvpro_sample/bin_x64/Release/../../vk_raytracing_tutorial_KHR/ray_tracing_animation/../media/scenes/plane.obj 
+Loading File:  D:/Fgly-Github/nvpro_sample/bin_x64/Release/../../vk_raytracing_tutorial_KHR/ray_tracing_animation/../media/scenes/wuson.obj 
+Loading File:  D:/Fgly-Github/nvpro_sample/bin_x64/Release/../../vk_raytracing_tutorial_KHR/ray_tracing_animation/../media/scenes/sphere.obj 
